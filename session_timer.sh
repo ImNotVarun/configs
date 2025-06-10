@@ -1,1 +1,0 @@
-/home/notvarun/Scripts_mine/session_timer.sh

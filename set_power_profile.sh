@@ -1,1 +1,0 @@
-/home/notvarun/Scripts_mine/set_power_profile.sh
